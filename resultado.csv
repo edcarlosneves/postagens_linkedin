@@ -1,0 +1,7 @@
+ID_Produto,Valor_Venda,Data_Venda,arquivo_origem
+101,50.0,2025-01-15,dados/vendas_fevereiro.csv
+102,75.5,2025-01-18,dados/vendas_fevereiro.csv
+103,120.9,2025-01-22,dados/vendas_fevereiro.csv
+104,30.0,2025-02-05,dados/vendas_janeiro.csv
+105,95.75,2025-02-10,dados/vendas_janeiro.csv
+101,50.0,2025-02-25,dados/vendas_janeiro.csv

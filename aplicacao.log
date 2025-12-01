@@ -1,0 +1,9 @@
+2025-11-28T13:33:41 | INFO | __main__ | Correlation ID: fd3e5751-64d3-40c6-917c-2351dd2167eb | Sistema inicializado com sucesso.
+2025-11-28T13:33:41 | WARNING | __main__ | Correlation ID: fd3e5751-64d3-40c6-917c-2351dd2167eb | Configuração de rede pode estar desatualizada.
+2025-11-28T13:33:41 | ERROR | __main__ | Correlation ID: fd3e5751-64d3-40c6-917c-2351dd2167eb | Falha ao conectar ao serviço externo X.
+2025-11-28T13:33:41 | INFO | __main__ | Correlation ID: fd3e5751-64d3-40c6-917c-2351dd2167eb | {"evento": "inicio_processo", "dados": {"etapa": 1, "componente": "motor"}}
+2025-11-28T13:33:41 | INFO | __main__ | Correlation ID: fd3e5751-64d3-40c6-917c-2351dd2167eb | {"evento": "leitura_sensor", "dados": {"valor": 42.8, "unidade": "\u00baC"}}
+2025-11-28T13:33:41 | INFO | __main__ | Correlation ID: fd3e5751-64d3-40c6-917c-2351dd2167eb | {"evento": "fim_processo", "dados": {"status": "ok", "duracao_ms": 560}}
+2025-11-28T13:38:57 | ERROR | ipykernel.comm | Correlation ID: fd3e5751-64d3-40c6-917c-2351dd2167eb | No such comm target registered: jupyter.widget.control
+2025-11-28T13:38:57 | WARNING | Comm | Correlation ID: fd3e5751-64d3-40c6-917c-2351dd2167eb | No such comm: c1b3adc9-96d7-45c1-b78f-c8e5b9e2a059
+2025-11-28T13:38:57 | DEBUG | Comm | Correlation ID: fd3e5751-64d3-40c6-917c-2351dd2167eb | Current comms: []
